@@ -1,5 +1,5 @@
 # pyspark-streaming-twitter
-This is to use Spark Streaming with Twitter. See [Spark Streaming Document](http://spark.apache.org/docs/latest/streaming-programming-guide.html).
+This is to use Spark Streaming with Twitter to identify hashtags and return top trending hashtags relating to 'pandemic'. See [Spark Streaming Document](http://spark.apache.org/docs/latest/streaming-programming-guide.html).
 
 ## Requirement
 - setup a Developer API acocunt with Twitter and create an application to get credentials (https://apps.twitter.com/)
