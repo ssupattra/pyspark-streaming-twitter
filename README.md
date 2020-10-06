@@ -11,7 +11,7 @@ This is to use Spark Streaming with Twitter to identify hashtags and return top 
 ## Steps
 - open virtualbox (ubuntu + spark)
 - open terminal 1
-- jupyter-notebook (browser opens)
+- jupyter-notebook (browser opens), open Tweet_Spark_Streaming.ipynb
 - open terminal 2
 - python3 TweetRead.py (Make sure to add your own IP Adress, Port and your Twitter credential keys)
 - run steps in jupyter notebook
